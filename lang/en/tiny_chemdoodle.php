@@ -30,3 +30,4 @@ $string['storeinrepo'] = 'Store as image file';
 $string['storeinrepo_desc'] = 'If checked the chemical structure will be saved as a standard image upload instead of a base64 inline image.';
 $string['insert'] = 'Insert Structure';
 $string['helplinktext'] = 'Insert Chemical Structure';
+
