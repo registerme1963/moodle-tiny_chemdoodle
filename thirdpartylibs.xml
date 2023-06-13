@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<libraries>
+    <library>
+        <location>chemdoodle</location>
+        <name>jQuery</name>
+        <description>jQuery is a fast, small, and feature-rich JavaScript library widely used on moodle.</description>
+        <version>3.6.4</version>
+        <license>MIT</license>
+        <repository>https://github.com/jquery/jquery</repository>
+        <copyrights>
+            <copyright>2016 The jQuery Foundation</copyright>
+        </copyrights>
+    </library>
+    <library>
+        <location>chemdoodle</location>
+        <name>chemdoodle web components</name>
+        <description>chemdoodle Web Components is free online chemical structure editor using HTML5.</description>
+        <version>9.5.0</version>
+        <license>GPL V3</license>
+        <repository>https://https://web.chemdoodle.com/</repository>
+        <copyrights>
+            <copyright>iChemLabs</copyright>
+        </copyrights>
+    </library>
+</libraries>
